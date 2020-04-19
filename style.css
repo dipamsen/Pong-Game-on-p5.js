@@ -1,0 +1,10 @@
+html, body {
+  margin: 5px;
+  padding: 0;
+}
+canvas{
+  border: 2px solid black;
+}
+* {
+  font-family: 'Comic Sans MS', Ebrima;
+}
